@@ -16,3 +16,5 @@ To play Flapster, download the repository and run the executable file `flapster.
 - Use the up arrow key to make the bird jump.
 - Avoid hitting the pipes and the ground.
 - Try to achieve the highest score possible.
+
+Вот мы тут тчто то написали от себя
